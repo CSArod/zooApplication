@@ -1,0 +1,3 @@
+Giraffes 10  80.30
+Elephants 20 300.10
+bob -3 -100

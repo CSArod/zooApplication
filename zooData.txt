@@ -1,0 +1,11 @@
+Giraffes 9.8  105.701
+Elephants 25.8 320.258
+Lions 39.8 780.602
+Tigers 22.4 400.32
+Monkeys 12.4 145.33333
+Llamas 6.7 45.111
+Butterflies .832 32.0245
+Rabbits 4.42 48.832
+Penguins 8.9 280.65
+Ponies 15.31 76.89
+Bulls 35.2 658.57

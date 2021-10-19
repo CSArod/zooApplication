@@ -1,0 +1,7 @@
+Giraffes 10  100
+Elephants 20 250
+Lions 10 300
+Monkeys 9 95
+Llamas 8 67.5
+Butterflies 2 30
+

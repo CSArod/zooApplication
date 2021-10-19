@@ -1,0 +1,8 @@
+Giraffes 8.589  85.378
+Elephants 25.8 320.258
+Lions 20.158 500.5602
+Monkeys 10.33333 105.33333
+Llamas 6.53 43.21111
+Butterflies .5432 30.0211245
+rabbits 5.222222 45.832
+
